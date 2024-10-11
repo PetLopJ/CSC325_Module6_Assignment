@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Ellipse?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.csc325_firebase_webview_auth.view.SplashController">
+   <children>
+      <Ellipse fill="DODGERBLUE" layoutX="301.0" layoutY="200.0" radiusX="146.0" radiusY="107.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label layoutX="242.0" layoutY="183.0" prefHeight="31.0" prefWidth="117.0" text="Welcome to the App!" />
+      <Button fx:id="register" layoutX="249.0" layoutY="235.0" mnemonicParsing="false" onAction="#switchToRegister" text="Click to Register" />
+   </children>
+</AnchorPane>

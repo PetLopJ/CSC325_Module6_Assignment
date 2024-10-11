@@ -1,0 +1,34 @@
+#anchorPane {
+
+    -fx-background-color: #a66c0f;
+}
+
+#menuBar {
+
+    -fx-background-color: #8a3504;
+}
+
+#vbox {
+
+    -fx-background-color: #00f600;
+}
+
+#clear {
+
+    -fx-background-color: #a66c0f;
+}
+
+#add {
+
+    -fx-background-color: #a66c0f;
+}
+
+#delete {
+
+    -fx-background-color: #a66c0f;
+}
+
+#edit {
+
+    -fx-background-color: #a66c0f;
+}
